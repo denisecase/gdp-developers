@@ -1,7 +1,7 @@
 # gdp-developers
 Links to GDP 2 developer profiles
 
-- Assistant: [Annie Chandolu]()
+- Assistant: [Annie Chandolu](https://github.com/annie0sc)
 
 ## Spring 2021 - Section 3 - Attendance Group A
 
