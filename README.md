@@ -1,5 +1,28 @@
 # gdp-developers
-Links to GDP 2 developer profiles
+
+## Spring 2021 - GDP2 Apps
+
+1. SaiKrishna-GD <https://github.com/GD-Prasad/Group-1-Treasure>
+2. Vikas-Deekshith    <https://github.com/Vikas2004/locator>
+3. RohithC-Vishal  <https://github.com/Vishalreddy114/FSA3> 
+4. Bhaskar-Rajeshwari   <https://github.com/Bhaskar2909/fsa-group4> 
+5. RohithA-Raju  <https://github.com/nrajubn/Full-Stack-App> 
+6. Swaroop-Krishna  <https://github.com/Krishna-Koyyalamudi/group-6-full-stack-app> 
+7. Puneeth-Sai   <https://github.com/Puneeth159/fsa-group-7> 
+8. Sudheera-Sumana  <https://github.com/sumana-reddy/FSA-group8> 
+9. Yashwanth-Pruthvi  <https://github.com/pruthvi-naskanti/The-Hunt-FSA9> 
+10. Sumanth-Chandu  <https://github.com/Chandupolisetty/Locandyy> 
+11. Pooja-Harika <https://github.com/KHARIKA17/Group-11-Full-stack-app> 
+12. Rajashekar-Ravi  <https://github.com/Rajshekar2641/fullstack-app>
+
+## Fall 2020 GDP1 Plans and Proposals
+
+1. Northwest Gaming App https://github.com/sumana-reddy/GDP-1-project (storyboard)
+1. The Hunt https://github.com/Dixith1196/THE-HUNT (mobile theme / icons)
+3. Lost Treasure https://github.com/Rajeshwari-Rudra/GDP1 (sprint buckets with dates)
+4. Hunt Game https://github.com/sudheera96/Group-4--Hunt-game (detailed sample data)
+
+## Spring 2021 - GDP 2 developer profiles
 
 - Assistant: [Annie Chandolu](https://github.com/annie0sc)
 
@@ -32,5 +55,3 @@ Links to GDP 2 developer profiles
 1. [Sumanth Naidu](https://github.com/sumanthreddy1233/sumanthreddy1233/blob/main/README.md)
 1. [Chandu Polisetty](https://github.com/Chandupolisetty)
 1. [Sumana Reddybathula](https://github.com/sumana-reddy)
-
-
