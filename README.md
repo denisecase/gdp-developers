@@ -1,5 +1,15 @@
 # gdp-developers
 
+## Fall 2021 - App Ideas
+
+1. Team 1
+2. Team 2
+3. Team 3
+4. Team 4
+5. Team 5
+6. Team 6
+7. Team 7
+
 ## Spring 2021 - GDP2 Apps
 
 1. SaiKrishna-GD <https://github.com/GD-Prasad/Group-1-Treasure>
