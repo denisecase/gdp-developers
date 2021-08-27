@@ -55,7 +55,7 @@ Client Team 6
 
 * AA
 * AD
-* SS
+* [SanjaySaripalli](https://github.com/sanjay-13)
 * NT
 
 Client Team 7
