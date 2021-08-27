@@ -46,7 +46,7 @@ Client Team 4
 
 Client Team 5
 
-* PRG
+* [Pramod Reddy Gonegari](https://github.com/pramod096)
 * NKG
 * NRNM
 * AR
