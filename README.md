@@ -35,7 +35,7 @@ Client Team 3
 * AB
 * KSDK
 * AKRM
-* SVRT
+* [Vivek Tadiparthi](https://github.com/vivektadiparthi)
 
 Client Team 4
 
