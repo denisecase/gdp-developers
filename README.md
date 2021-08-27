@@ -62,7 +62,7 @@ Client Team 7
 
 * [Giridhar Addagalla](https://github.com/giridhar196)
 * TRN
-* VT
+* [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
 * PT
 
 ## Spring 2021 - GDP2 Apps
