@@ -14,7 +14,7 @@
 
 Course Assistant
 
-* [Sai Manideep Allu](https://github.com/saimanideepallu)
+* SMA
 
 Client Team 1
 
@@ -60,7 +60,7 @@ Client Team 6
 
 Client Team 7
 
-* GA
+* [Giridhar Addagalla](https://github.com/giridhar196)
 * TRN
 * VT
 * PT
