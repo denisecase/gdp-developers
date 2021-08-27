@@ -41,14 +41,14 @@ Client Team 4
 
 * RRB
 * [Shiva Ram Kothapally](https://github.com/shivaramkothapally)
-* KM
+* [Keerthi Muli](https://github.com/KeerthiMuli)
 * [Jaya Kumar Saga](https://github.com/sagajayakumar)
 
 Client Team 5
 
 * [Pramod Reddy Gonegari](https://github.com/pramod096)
 * NKG
-* [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
+* NRNM
 * [Abhilash Ramavaram](https://github.com/AbhiRam0099)
 
 Client Team 6
