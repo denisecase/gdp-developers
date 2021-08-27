@@ -42,7 +42,7 @@ Client Team 4
 * RRB
 * SRK
 * KM
-* JKS
+* [Jaya Kumar Saga](https://github.com/sagajayakumar)
 
 Client Team 5
 
