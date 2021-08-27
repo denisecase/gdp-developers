@@ -27,7 +27,7 @@ Client Team 2
 
 * PA
 * RRC
-* SSM
+* [SRI SATHYA MAMIDALA](https://github.com/srisathyamamidala)
 * AS
 
 Client Team 3
@@ -55,7 +55,7 @@ Client Team 6
 
 * AA
 * AD
-* [SanjaySaripalli](https://github.com/sanjay-13)
+* SS
 * NT
 
 Client Team 7
