@@ -41,13 +41,13 @@ Client Team 4
 
 * [Rasagna Reddy Banda](https://github.com/Rasagna0409/)
 * [Shiva Ram Kothapally](https://github.com/shivaramkothapally)
-* KM
+* [Keerthi Muli](https://github.com/KeerthiMuli)
 * [Jaya Kumar Saga](https://github.com/sagajayakumar)
 
 Client Team 5
 
 * [Pramod Reddy Gonegari](https://github.com/pramod096)
-* [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
+* NKG
 * [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
 * [Abhilash Ramavaram](https://github.com/AbhiRam0099)
 
