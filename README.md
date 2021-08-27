@@ -40,15 +40,15 @@ Client Team 3
 Client Team 4
 
 * [Rasagna Reddy Banda](https://github.com/Rasagna0409/)
-* SRK
+* [Shiva Ram Kothapally](https://github.com/shivaramkothapally)
 * KM
-* JKS
+* [Jaya Kumar Saga](https://github.com/sagajayakumar)
 
 Client Team 5
 
 * [Pramod Reddy Gonegari](https://github.com/pramod096)
 * NKG
-* NRNM
+* [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
 * [Abhilash Ramavaram](https://github.com/AbhiRam0099)
 
 Client Team 6
