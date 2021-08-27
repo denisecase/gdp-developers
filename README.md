@@ -47,7 +47,7 @@ Client Team 4
 Client Team 5
 
 * [Pramod Reddy Gonegari](https://github.com/pramod096)
-* NKG
+* [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
 * [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
 * [Abhilash Ramavaram](https://github.com/AbhiRam0099)
 
