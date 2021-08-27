@@ -56,7 +56,7 @@ Client Team 6
 * AA
 * AD
 * SS
-* NT
+* [Naveen Tanuku](https://github.com/NaveenTanuku) 
 
 Client Team 7
 
