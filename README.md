@@ -20,12 +20,12 @@ Client Team 1
 
 * SKE
 * HK
-* [MANOJ NUVVALA](https://github.com/manojnuvvala)
+* MN
 * HVRT
 
 Client Team 2
 
-* PA
+* [Prasanna Arla](https://github.com/PRASANNAARLA)
 * RRC
 * SSM
 * AS
@@ -46,10 +46,10 @@ Client Team 4
 
 Client Team 5
 
-* [Pramod Reddy Gonegari](https://github.com/pramod096)
+* PRG
 * NKG
 * NRNM
-* [Abhilash Ramavaram](https://github.com/AbhiRam0099)
+* AR
 
 Client Team 6
 
@@ -61,7 +61,7 @@ Client Team 6
 Client Team 7
 
 * [Giridhar Addagalla](https://github.com/giridhar196)
-* [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu)
+* TRN
 * [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
 * PT
 
