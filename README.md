@@ -39,7 +39,7 @@ Client Team 3
 
 Client Team 4
 
-* [Rasagna Reddy Banda](https://github.com/Rasagna0409/)
+* RRB
 * [Shiva Ram Kothapally](https://github.com/shivaramkothapally)
 * KM
 * [Jaya Kumar Saga](https://github.com/sagajayakumar)
@@ -53,7 +53,7 @@ Client Team 5
 
 Client Team 6
 
-* AA
+* [Arnav Akula](https://github.com/Arnavakula7474)
 * AD
 * [SanjaySaripalli](https://github.com/sanjay-13)
 * NT
@@ -63,7 +63,7 @@ Client Team 7
 * [Giridhar Addagalla](https://github.com/giridhar196)
 * [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu)
 * [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
-* [Priyanka Thambabathula](https://github.com/Priyanka1818)
+* PT
 
 ## Spring 2021 - GDP2 Apps
 
