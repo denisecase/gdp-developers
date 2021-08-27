@@ -53,9 +53,9 @@ Client Team 5
 
 Client Team 6
 
-* AA
+* [Arnav Akula](https://github.com/Arnavakula7474)
 * AD
-* [SanjaySaripalli](https://github.com/sanjay-13)
+* SS
 * NT
 
 Client Team 7
