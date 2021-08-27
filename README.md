@@ -1,14 +1,69 @@
 # gdp-developers
 
-## Fall 2021 - App Ideas
+## Fall 2021 - Client Groups / RFPs
 
-1. Team 1
-2. Team 2
-3. Team 3
-4. Team 4
-5. Team 5
-6. Team 6
-7. Team 7
+1. Team 1 - RFP
+2. Team 2 - RFP
+3. Team 3 - RFP
+4. Team 4 - RFP
+5. Team 5 - RFP
+6. Team 6 - RFP
+7. Team 7 - RFP
+
+## Fall 2021 - Developers
+
+Course Assistant
+
+* SMA
+
+Client Team 1
+
+* SKE
+* HK
+* MN
+* HVRT
+
+Client Team 2
+
+* PA
+* RRC
+* SSM
+* AS
+
+Client Team 3
+
+* AB
+* KSDK
+* AKRM
+* SVRT
+
+Client Team 4
+
+* RRB
+* SRK
+* KM
+* JKS
+
+Client Team 5
+
+* PRG
+* NKG
+* NRNM
+* AR
+
+Client Team 6
+
+* AA
+* AD
+* SS
+* NT
+
+Client Team 7
+
+* GA
+* TRN
+* VT
+* PT
 
 ## Spring 2021 - GDP2 Apps
 
