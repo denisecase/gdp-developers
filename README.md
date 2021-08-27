@@ -3,7 +3,7 @@
 ## Fall 2021 - Client Groups / RFPs
 
 1. Team 1 - RFP (Class Reminder)
-2. Team 2 - RFP (Topic of the Day)
+2. Team 2 - RFP [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
 3. Team 3 - RFP (Featured Developer)
 4. Team 4 - RFP (Featured Location)
 5. Team 5 - RFP (Event Reminder)
