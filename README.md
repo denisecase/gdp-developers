@@ -14,7 +14,7 @@
 
 Course Assistant
 
-* [Sai Manideep Allu](https://github.com/saimanideepallu)
+* SMA
 
 Client Team 1
 
@@ -55,14 +55,14 @@ Client Team 6
 
 * AA
 * AD
-* SS
+* [SanjaySaripalli](https://github.com/sanjay-13)
 * NT
 
 Client Team 7
 
 * [Giridhar Addagalla](https://github.com/giridhar196)
 * TRN
-* [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
+* VT
 * PT
 
 ## Spring 2021 - GDP2 Apps
