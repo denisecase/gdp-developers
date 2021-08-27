@@ -63,7 +63,7 @@ Client Team 7
 * [Giridhar Addagalla](https://github.com/giridhar196)
 * [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu)
 * [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
-* PT
+* [Priyanka Thambabathula](https://github.com/Priyanka1818)
 
 ## Spring 2021 - GDP2 Apps
 
