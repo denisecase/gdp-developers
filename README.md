@@ -20,7 +20,7 @@ Client Team 1
 
 * SKE
 * HK
-* MN
+* [MANOJ NUVVALA](https://github.com/manojnuvvala)
 * HVRT
 
 Client Team 2
