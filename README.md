@@ -28,7 +28,7 @@ Client Team 2
 * PA
 * RRC
 * SSM
-* AS
+* [Akanksha Sudhagoni](https://github.com/S542046)
 
 Client Team 3
 
@@ -55,7 +55,7 @@ Client Team 6
 
 * AA
 * AD
-* [SanjaySaripalli](https://github.com/sanjay-13)
+* SS
 * NT
 
 Client Team 7
