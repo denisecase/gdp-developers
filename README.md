@@ -34,7 +34,7 @@ Client Team 3
 
 * AB
 * KSDK
-* AKRM
+* [Underwood](https://github.com/akhilmallepally)
 * SVRT
 
 Client Team 4
@@ -55,7 +55,7 @@ Client Team 6
 
 * AA
 * AD
-* [SanjaySaripalli](https://github.com/sanjay-13)
+* SS
 * NT
 
 Client Team 7
