@@ -61,7 +61,7 @@ Client Team 6
 Client Team 7
 
 * [Giridhar Addagalla](https://github.com/giridhar196)
-* TRN
+* [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu)
 * VT
 * PT
 
