@@ -14,7 +14,7 @@
 
 Course Assistant
 
-* SMA
+* [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 Client Team 1
 
