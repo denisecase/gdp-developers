@@ -21,7 +21,7 @@ Client Team 1
 * SKE
 * HK
 * [MANOJ NUVVALA](https://github.com/manojnuvvala)
-* HVRT
+* [Hemanth_Venkata_Reddy_Telluri](https://github.com/hemanth8056)
 
 Client Team 2
 
@@ -47,7 +47,7 @@ Client Team 4
 Client Team 5
 
 * [Pramod Reddy Gonegari](https://github.com/pramod096)
-* [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
+* NKG
 * [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
 * [Abhilash Ramavaram](https://github.com/AbhiRam0099)
 
