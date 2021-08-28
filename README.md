@@ -8,7 +8,7 @@
 4. Team 4 - RFP (Featured Location)
 5. Team 5 - RFP (Event Reminder)
 6. Team 6 - RFP (Habit Reminder)
-7. Team 7 - RFP (Smile Maker)
+7. Team 7 - RFP [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
 
