@@ -25,7 +25,7 @@ Client Team 1
 
 Client Team 2
 
-* PA
+* [Prasanna Arla](https://github.com/PRASANNAARLA)
 * RRC
 * SSM
 * AS
