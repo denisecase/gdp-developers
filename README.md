@@ -28,7 +28,7 @@ Client Team 2
 * PA
 * RRC
 * SSM
-* AS
+* [Akanksha Sudhagoni](https://github.com/S542046)
 
 Client Team 3
 
