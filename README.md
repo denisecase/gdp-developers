@@ -21,7 +21,7 @@ Client Team 1
 * SKE
 * HK
 * [MANOJ NUVVALA](https://github.com/manojnuvvala)
-* HVRT
+* [Hemanth_Venkata_Reddy_Telluri](https://github.com/hemanth8056/db93Telluri)
 
 Client Team 2
 
