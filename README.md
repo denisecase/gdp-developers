@@ -19,7 +19,7 @@ Course Assistant
 Client Team 1
 
 * SKE
-* HK
+* [HARSHAVARDHAN KURRA](https://github.com/harshakurra123)
 * [MANOJ NUVVALA](https://github.com/manojnuvvala)
 * HVRT
 
