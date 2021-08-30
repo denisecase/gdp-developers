@@ -27,7 +27,7 @@ Client Team 2
 
 * [Prasanna Arla](https://github.com/PRASANNAARLA)
 * RRC
-* [SRI SATHYA MAMIDALA](https://github.com/srisathyamamidala)
+* [Sri Sathya Mamidala](https://github.com/srisathyamamidala)
 * [Akanksha Sudhagoni](https://github.com/S542046)
 
 Client Team 3
