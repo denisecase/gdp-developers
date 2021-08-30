@@ -2,13 +2,13 @@
 
 ## Fall 2021 - Client Groups / RFPs
 
-1. Team 1 - RFP (Class Reminder)
+1. Team 1 - RFP (Class Reminder) <https://github.com/harshakurra123/ClassRemainder>
 2. Team 2 - RFP (Topic of the Day)
-3. Team 3 - RFP (Featured Developer)
-4. Team 4 - RFP (Featured Location)
-5. Team 5 - RFP (Event Reminder)
-6. Team 6 - RFP (Habit Reminder)
-7. Team 7 - RFP (Smile Maker)
+3. Team 3 - RFP [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
+4. Team 4 - RFP [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+5. [Team 5 - RFP (Event Reminder)](https://github.com/pramod096/Bearcat-Events)
+6. Team 6 - RFP (Habit Reminder) (https://github.com/NaveenTanuku/HabitReminder)
+7. Team 7 - RFP [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
 
@@ -56,7 +56,7 @@ Client Team 6
 * AA
 * AD
 * [SanjaySaripalli](https://github.com/sanjay-13)
-* [Naveen Tanuku](https://github.com/NaveenTanuku) 
+* [Naveen Tanuku](https://github.com/NaveenTanuku)
 
 Client Team 7
 
