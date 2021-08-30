@@ -19,7 +19,7 @@ Course Assistant
 Client Team 1
 
 * [sai kiran reddy Enugala](https://github.com/saikiranreddyenugala)
-* HK
+* [HARSHAVARDHAN KURRA](https://github.com/harshakurra123)
 * [MANOJ NUVVALA](https://github.com/manojnuvvala)
 * HVRT
 
