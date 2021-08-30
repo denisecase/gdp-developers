@@ -33,7 +33,7 @@ Client Team 2
 Client Team 3
 
 * AB
-* KSDK
+* [Kushal Katari](https://github.com/kushalkatari)
 * [Underwood](https://github.com/akhilmallepally)
 * SVRT
 
