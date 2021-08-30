@@ -35,7 +35,7 @@ Client Team 3
 * AB
 * [Kushal Katari](https://github.com/kushalkatari)
 * [Underwood](https://github.com/akhilmallepally)
-* SVRT
+* [Vivek Tadiparthi](https://github.com/vivektadiparthi)
 
 Client Team 4
 
