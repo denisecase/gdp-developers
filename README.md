@@ -54,7 +54,7 @@ Client Team 5
 Client Team 6
 
 * [Arnav Akula](https://github.com/Arnavakula7474)
-* AD
+* [Abhilash Dhumala](https://github.com/Abhilash15)
 * [SanjaySaripalli](https://github.com/sanjay-13)
 * [Naveen Tanuku](https://github.com/NaveenTanuku)
 
