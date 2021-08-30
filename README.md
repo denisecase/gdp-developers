@@ -27,7 +27,7 @@ Client Team 2
 
 * PA
 * RRC
-* SSM
+* [SRI SATHYA MAMIDALA](https://github.com/srisathyamamidala)
 * AS
 
 Client Team 3
