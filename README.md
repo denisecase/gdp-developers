@@ -2,13 +2,13 @@
 
 ## Fall 2021 - Client Groups / RFPs
 
-1. Team 1 - RFP (Class Reminder)
+1. Team 1 - RFP (Class Reminder) <https://github.com/harshakurra123/ClassRemainder>
 2. Team 2 - RFP (Topic of the Day)
-3. Team 3 - RFP (Featured Developer)
-4. Team 4 - RFP (Featured Location)
-5. Team 5 - RFP (Event Reminder)
-6. Team 6 - RFP (Habit Reminder)
-7. Team 7 - RFP (Smile Maker)
+3. Team 3 - RFP [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
+4. Team 4 - RFP [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+5. [Team 5 - RFP (Event Reminder)](https://github.com/pramod096/Bearcat-Events)
+6. Team 6 - RFP (Habit Reminder) (https://github.com/NaveenTanuku/HabitReminder)
+7. Team 7 - RFP [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
 
@@ -39,31 +39,31 @@ Client Team 3
 
 Client Team 4
 
-* RRB
-* SRK
+* [Rasagna Reddy Banda](https://github.com/Rasagna0409/)
+* [Shiva Ram Kothapally](https://github.com/shivaramkothapally)
 * KM
-* JKS
+* [Jaya Kumar Saga](https://github.com/sagajayakumar)
 
 Client Team 5
 
 * [Pramod Reddy Gonegari](https://github.com/pramod096)
-* NKG
-* NRNM
+* [Narendra Kumar Gunturu](https://github.com/Narendra-kumar-Gunturu)
+* [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
 * [Abhilash Ramavaram](https://github.com/AbhiRam0099)
 
 Client Team 6
 
-* AA
+* [Arnav Akula](https://github.com/Arnavakula7474)
 * AD
-* SS
-* NT
+* [SanjaySaripalli](https://github.com/sanjay-13)
+* [Naveen Tanuku](https://github.com/NaveenTanuku)
 
 Client Team 7
 
 * [Giridhar Addagalla](https://github.com/giridhar196)
 * [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu)
 * [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
-* PT
+* [Priyanka Thambabathula](https://github.com/Priyanka1818)
 
 ## Spring 2021 - GDP2 Apps
 
