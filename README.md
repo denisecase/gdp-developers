@@ -2,46 +2,46 @@
 
 ## Fall 2021 - Client Groups / RFPs
 
-1. Team 1 - RFP (Class Reminder)
-2. Team 2 - RFP (Topic of the Day)
-3. Team 3 - RFP (Featured Developer)
-4. Team 4 - RFP (Featured Location)
-5. Team 5 - RFP (Event Reminder)
-6. Team 6 - RFP (Habit Reminder)
-7. Team 7 - RFP (Smile Maker)
+1. Team 1 - RFP (Class Reminder) <https://github.com/harshakurra123/ClassRemainder>
+2. Team 2 - RFP [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
+3. Team 3 - RFP [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
+4. Team 4 - RFP [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+5. [Team 5 - RFP (Event Reminder)](https://github.com/pramod096/Bearcat-Events)
+6. Team 6 - RFP (Habit Reminder) (https://github.com/NaveenTanuku/HabitReminder)
+7. Team 7 - RFP [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
 
 Course Assistant
 
-* [Sai Manideep Allu](https://github.com/saimanideepallu)
+* SMA
 
 Client Team 1
 
-* SKE
-* HK
-* MN
+* [sai kiran reddy Enugala](https://github.com/saikiranreddyenugala)
+* [HARSHAVARDHAN KURRA](https://github.com/harshakurra123)
+* [MANOJ NUVVALA](https://github.com/manojnuvvala)
 * HVRT
 
 Client Team 2
 
 * [Prasanna Arla](https://github.com/PRASANNAARLA)
-* RRC
-* SSM
-* AS
+* [Rohit Reddy Chandupatla](https://github.com/Rohitreddz)
+* [Sri Sathya Mamidala](https://github.com/srisathyamamidala)
+* [Akanksha Sudhagoni](https://github.com/S542046)
 
 Client Team 3
 
-* AB
-* KSDK
-* AKRM
-* SVRT
+* [Amulya Reddy](https://github.com/amulyareddybaddam)
+* [Kushal Katari](https://github.com/kushalkatari)
+* [Underwood](https://github.com/akhilmallepally)
+* [Vivek Tadiparthi](https://github.com/vivektadiparthi)
 
 Client Team 4
 
 * [Rasagna Reddy Banda](https://github.com/Rasagna0409/)
 * [Shiva Ram Kothapally](https://github.com/shivaramkothapally)
-* KM
+* [Keerthi Muli](https://github.com/KeerthiMuli)
 * [Jaya Kumar Saga](https://github.com/sagajayakumar)
 
 Client Team 5
@@ -53,17 +53,17 @@ Client Team 5
 
 Client Team 6
 
-* AA
+* [Arnav Akula](https://github.com/Arnavakula7474)
 * AD
 * [SanjaySaripalli](https://github.com/sanjay-13)
-* NT
+* [Naveen Tanuku](https://github.com/NaveenTanuku)
 
 Client Team 7
 
-* [Giridhar Addagalla](https://github.com/giridhar196)
-* TRN
+* [Giridhar Addagalla](https://github.com/giridhar196/giridhar196)
+* [Tejaswi Reddy Nallavolu](https://github.com/tejaswinallavolu)
 * [Vyshnavi Tadipaneni](https://github.com/vyshnavi1996)
-* [Priyanka Thambabathula](https://github.com/Priyanka1818)
+* [Priyanka Thambabathula](https://github.com/Priyanka1818/Priyanka1818)
 
 ## Spring 2021 - GDP2 Apps
 
