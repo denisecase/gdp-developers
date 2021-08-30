@@ -21,7 +21,7 @@ Client Team 1
 * [sai kiran reddy Enugala](https://github.com/saikiranreddyenugala)
 * [HARSHAVARDHAN KURRA](https://github.com/harshakurra123)
 * [MANOJ NUVVALA](https://github.com/manojnuvvala)
-* HVRT
+* [Hemanth_Venkata_Reddy_Telluri](https://github.com/hemanth8056)
 
 Client Team 2
 
