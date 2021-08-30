@@ -6,7 +6,7 @@
 2. Team 2 - RFP (Topic of the Day)
 3. Team 3 - RFP [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
 4. Team 4 - RFP [Featured Location](https://github.com/KeerthiMuli/featured-locations)
-5. Team 5 - RFP (Event Reminder)
+5. [Team 5 - RFP (Event Reminder)](https://github.com/pramod096/Bearcat-Events)
 6. Team 6 - RFP (Habit Reminder)
 7. Team 7 - RFP (Smile Maker)
 
