@@ -14,7 +14,7 @@
 
 Course Assistant
 
-* [Sai Manideep Allu](https://github.com/saimanideepallu)
+* SMA
 
 Client Team 1
 
@@ -32,7 +32,7 @@ Client Team 2
 
 Client Team 3
 
-* AB
+* [Amulya Reddy](https://github.com/amulyareddybaddam)
 * [Kushal Katari](https://github.com/kushalkatari)
 * [Underwood](https://github.com/akhilmallepally)
 * [Vivek Tadiparthi](https://github.com/vivektadiparthi)
