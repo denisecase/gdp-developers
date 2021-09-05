@@ -1,6 +1,8 @@
 # gdp-developers
 
-## Fall 2021 - Client Groups / RFPs
+## Fall 2021
+
+Request for Proposal (RFP) - Asking for an App
 
 1. Team 1 - RFP [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
 2. Team 2 - RFP [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
@@ -9,6 +11,23 @@
 5. Team 5 - RFP [Event Reminder](https://github.com/pramod096/Bearcat-Events)
 6. Team 6 - RFP [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 7. Team 7 - RFP [Smile Maker](https://github.com/giridhar196/smile-maker)
+
+Proposals - Bidding on an App
+
+* Proposal 1A [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
+* Proposal 1B [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
+* Proposal 2A [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
+* Proposal 2B [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
+* Proposal 3A [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
+* Proposal 3B [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
+* Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+* Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+* Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+* Proposal 5B [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+* Proposal 6A [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
+* Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
+* Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
+* Proposal 7B [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
 
