@@ -26,7 +26,7 @@ Proposals - Bidding on an App
 * Proposal 5B [Event Reminder](https://github.com/pramod096/Bearcat-Events)
 * Proposal 6A [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
-* Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
+* Proposal 7A [Smile Maker](https://github.com/harshakurra123/Smile-Maker)
 * Proposal 7B [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
