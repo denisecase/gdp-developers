@@ -17,7 +17,7 @@ Proposals - Bidding on an App
 * Proposal 1A [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
 * Proposal 1B [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
 * Proposal 2A [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
-* Proposal 2B [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
+* Proposal 2B [Topic of the Day](https://github.com/srisathyamamidala/proposal)
 * Proposal 3A [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
 * Proposal 3B [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
 * Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations)
