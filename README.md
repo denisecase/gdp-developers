@@ -20,7 +20,7 @@ Proposals - Bidding on an App
 * Proposal 2B [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
 * Proposal 3A [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
 * Proposal 3B [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
-* Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+* Proposal 4A [Featured Location](https://github.com/AbhiRam0099/Proposal4A/blob/main/README.md)
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations)
 * Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
 * Proposal 5B [Event Reminder](https://github.com/pramod096/Bearcat-Events)
