@@ -27,7 +27,7 @@ Proposals - Bidding on an App
 * Proposal 6A [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
-* Proposal 7B [Smile Maker](https://github.com/giridhar196/smile-maker)
+* Proposal 7B [Smile Maker](https://github.com/manojnuvvala/smile_maker_proposal)
 
 ## Fall 2021 - Developers
 
