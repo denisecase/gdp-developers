@@ -24,7 +24,7 @@ Proposals - Bidding on an App
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations)
 * Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
 * Proposal 5B [Event Reminder](https://github.com/pramod096/Bearcat-Events)
-* Proposal 6A [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
+* Proposal 6A [Habit Reminder](https://github.com/Rohitreddz/proposal)
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
 * Proposal 7B [Smile Maker](https://github.com/giridhar196/smile-maker)
