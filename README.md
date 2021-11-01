@@ -22,7 +22,7 @@ Proposals - Bidding on an App
 * Proposal 3B [Featured Developer](https://github.com/KeerthiMuli/Featured-Developer-Proposal)
 * Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations)
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations)
-* Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+* Proposal 5A [Event Reminder](https://github.com/vivektadiparthi/Proposal5A-BearcatE)
 * Proposal 5B [Event Reminder](https://github.com/pramod096/Bearcat-Events)
 * Proposal 6A [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
