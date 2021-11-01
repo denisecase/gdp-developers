@@ -15,18 +15,18 @@ Request for Proposal (RFP) - Asking for an App
 Proposals - Bidding on an App
 
 * Proposal 1A [Class Reminder](https://github.com/vyshnavi1996/proposal)
-* Proposal 1B [Class Reminder](http://classremindergdp.herokuapp.com/)
-* Proposal 2A [Topic of the Day](https://github.com/Rohitreddz/proposal)
+* Proposal 1B [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
+* Proposal 2A [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
 * Proposal 2B [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
-* Proposal 3A [Featured Developer](https://github.com/shivaramkothapally/featured-developers-proposal)
+* Proposal 3A [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
 * Proposal 3B [Featured Developer](https://github.com/KeerthiMuli/Featured-Developer-Proposal)
-* Proposal 4A [Featured Location](https://github.com/AbhiRam0099/Proposal4A/blob/main/README.md)
+* Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations)
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations)
-* Proposal 5A [Event Reminder](https://github.com/vivektadiparthi/Proposal5A-BearcatE)
-* Proposal 5B [Event Reminder](https://github.com/kushalkatari/Proposal5B-BearcatE)
-* Proposal 6A [Habit Reminder](https://github.com/Rohitreddz/proposal)
+* Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+* Proposal 5B [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+* Proposal 6A [Habit Reminder](https://dashboard.heroku.com/apps/habitreminder)
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
-* Proposal 7A [Smile Maker](https://smilemakerheroku.herokuapp.com/)
+* Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
 * Proposal 7B [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
