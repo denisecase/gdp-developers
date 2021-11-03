@@ -2,17 +2,7 @@
 
 ## Fall 2021
 
-Request for Proposal (RFP) - Asking for an App
-
-1. Team 1 - RFP [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
-2. Team 2 - RFP [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
-3. Team 3 - RFP [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
-4. Team 4 - RFP [Featured Location](https://github.com/KeerthiMuli/featured-locations)
-5. Team 5 - RFP [Event Reminder](https://github.com/pramod096/Bearcat-Events)
-6. Team 6 - RFP [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
-7. Team 7 - RFP [Smile Maker](https://github.com/giridhar196/smile-maker)
-
-Proposals - Bidding on an App
+Developer Proposal/MVP - Building an App
 
 * Proposal 1A [Class Reminder](https://github.com/TejaswiNallavolu/angular-app-heroku) ([App](https://class-reminder-app.herokuapp.com/))
 * Proposal 1B [Class Reminder](https://github.com/giridhar196/classReminder) ([App](http://classremindergdp.herokuapp.com/))
@@ -28,6 +18,16 @@ Proposals - Bidding on an App
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
 * Proposal 7B [Smile Maker](https://github.com/giridhar196/smile-maker)
+
+Client Request for Proposal (RFP) - Asking for an App
+
+1. Team 1 - RFP [Class Reminder](https://github.com/harshakurra123/ClassRemainder)
+2. Team 2 - RFP [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
+3. Team 3 - RFP [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
+4. Team 4 - RFP [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+5. Team 5 - RFP [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+6. Team 6 - RFP [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
+7. Team 7 - RFP [Smile Maker](https://github.com/giridhar196/smile-maker)
 
 ## Fall 2021 - Developers
 
