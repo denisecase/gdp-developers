@@ -15,7 +15,7 @@ Request for Proposal (RFP) - Asking for an App
 Proposals - Bidding on an App
 
 * Proposal 1A [Class Reminder](https://github.com/vyshnavi1996/proposal) ([App]())
-* Proposal 1B [Class Reminder](classremindergdp.herokuapp.com)
+* Proposal 1B [Class Reminder](https://github.com/giridhar196/classReminder)([App](http://classremindergdp.herokuapp.com/))
 * Proposal 2A [Topic of the Day](https://github.com/Sanjay-13/Topic-of-the-Day-2A)
 * Proposal 2B [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
 * Proposal 3A [Featured Developer](https://github.com/akhilmallepally/featured-developers/)
