@@ -14,7 +14,7 @@ Request for Proposal (RFP) - Asking for an App
 
 Proposals - Bidding on an App
 
-* Proposal 1A [Class Reminder](https://github.com/vyshnavi1996/proposal) ([App]())
+* Proposal 1A [Class Reminder](https://github.com/vyshnavi1996/proposal)
 * Proposal 1B [Class Reminder](classremindergdp.herokuapp.com)
 * Proposal 2A [Topic of the Day](https://github.com/Sanjay-13/Topic-of-the-Day-2A)
 * Proposal 2B [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
@@ -23,7 +23,7 @@ Proposals - Bidding on an App
 * Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations)
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations)
 * Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
-* Proposal 5B [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+* Proposal 5B [Event Reminder](https://github.com/akhilmallepally/bearcat-events) ([App](https://bearcatevents.herokuapp.com/))
 * Proposal 6A [Habit Reminder](https://dashboard.heroku.com/apps/habitreminder)
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
