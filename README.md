@@ -21,7 +21,7 @@ Proposals - Bidding on an App
 * Proposal 3A [Featured Developer](https://github.com/shivaramkothapally/featured-developers-proposal)
 * Proposal 3B [Featured Developer](https://github.com/KeerthiMuli/Featured-Developer-Proposal)
 * Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations)
-* Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations)
+* Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations) ([App](https://maryville-guide.herokuapp.com/))
 * Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
 * Proposal 5B [Event Reminder](https://github.com/akhilmallepally/bearcat-events) ([App](https://bearcatevents.herokuapp.com/))
 * Proposal 6A [Habit Reminder](https://dashboard.heroku.com/apps/habitreminder)
