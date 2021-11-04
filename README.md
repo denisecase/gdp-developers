@@ -12,7 +12,7 @@ Developer Proposal/MVP - Building an App
 * Proposal 3B [Featured Developer](https://github.com/KeerthiMuli/Featured-Developer-Proposal) ([App](https://featureddevelopers3bfrontend.herokuapp.com/#/home))
 * Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations) ([App](https://featurelocation.herokuapp.com/))
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations) ([App](https://maryville-guide.herokuapp.com/))
-* Proposal 5A [Event Reminder](https://github.com/pramod096/Bearcat-Events)
+* Proposal 5A [Event Reminder](https://github.com/vivektadiparthi/BearcatE) ([App](https://bearcatevent.herokuapp.com/))
 * Proposal 5B [Event Reminder](https://github.com/akhilmallepally/bearcat-events) ([App](https://bearcatevents.herokuapp.com/))
 * Proposal 6A [Habit Reminder](https://dashboard.heroku.com/apps/habitreminder) ([App](https://habitreminder.herokuapp.com/))
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
