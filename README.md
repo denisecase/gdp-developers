@@ -17,7 +17,7 @@ Developer Proposal/MVP - Building an App
 * Proposal 6A [Habit Reminder](https://dashboard.heroku.com/apps/habitreminder) ([App](https://habitreminder.herokuapp.com/))
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 7A [Smile Maker](https://github.com/giridhar196/smile-maker)
-* Proposal 7B [Smile Maker](https://github.com/giridhar196/smile-maker)
+* Proposal 7B [Smile Maker](https://github.com/manojnuvvala/smile_maker_proposal) ([App](https://smile-maker.herokuapp.com/))
 
 Client Request for Proposal (RFP) - Asking for an App
 
