@@ -6,7 +6,7 @@ Developer Proposal/MVP - Building an App
 
 * Proposal 1A [Class Reminder](https://github.com/TejaswiNallavolu/angular-app-heroku) ([App](https://class-reminder-app.herokuapp.com/))
 * Proposal 1B [Class Reminder](https://github.com/giridhar196/classReminder) ([App](http://classremindergdp.herokuapp.com/))
-* Proposal 2A [Topic of the Day](https://github.com/Sanjay-13/Topic-of-the-Day-2A)
+* Proposal 2A [Topic of the Day](https://github.com/Sanjay-13/Topic-of-the-Day-2A) ([App](https://herokuangtopic.herokuapp.com/home))
 * Proposal 2B [Topic of the Day](https://github.com/Rohitreddz/Topic-of-the-Day)
 * Proposal 3A [Featured Developer](https://github.com/shivaramkothapally/featured-developers-proposal) ([App](https://featureddeveloper.herokuapp.com/#/))
 * Proposal 3B [Featured Developer](https://github.com/KeerthiMuli/Featured-Developer-Proposal) ([App](https://featureddevelopers3bfrontend.herokuapp.com/#/home))
