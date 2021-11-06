@@ -14,7 +14,7 @@ Developer Proposal/MVP - Building an App
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations) ([App](https://maryville-guide.herokuapp.com/))
 * Proposal 5A [Event Reminder](https://github.com/vivektadiparthi/BearcatE) ([App](https://bearcatevent.herokuapp.com/))
 * Proposal 5B [Event Reminder](https://github.com/akhilmallepally/bearcat-events) ([App](https://bearcatevents.herokuapp.com/))
-* Proposal 6A [Habit Reminder](https://dashboard.heroku.com/apps/habitreminder) ([App](https://habitreminder.herokuapp.com/))
+* Proposal 6A [Habit Reminder](https://github.com/Rohitreddz/proposal-habit-reminder) ([App](https://habit-remainder-client.herokuapp.com/))
 * Proposal 6B [Habit Reminder](https://github.com/NaveenTanuku/HabitReminder)
 * Proposal 7A [Smile Maker](https://github.com/harshakurra123/Smile-Maker) ([App](https://smilemakerheroku.herokuapp.com/))
 * Proposal 7B [Smile Maker](https://github.com/manojnuvvala/smile_maker_proposal) ([App](https://smile-maker.herokuapp.com/))
