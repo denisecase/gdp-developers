@@ -9,7 +9,7 @@ Developer Proposal/MVP - Building an App
 * Proposal 2A [Topic of the Day](https://github.com/Sanjay-13/Topic-of-the-Day-2A) ([App](https://herokuangtopic.herokuapp.com/home))
 * Proposal 2B [Topic of the Day](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) ([App](https://topicoftheday.herokuapp.com/))
 * Proposal 3A [Featured Developer](https://github.com/shivaramkothapally/featured-developers-proposal) ([App](https://featureddeveloper.herokuapp.com/#/))
-* Proposal 3B [Featured Developer](https://github.com/KeerthiMuli/Featured-Developer-Proposal) ([App](https://featureddevelopers3bfrontend.herokuapp.com/#/home))
+* Proposal 3B [Featured Developer](https://github.com/KeerthiMuli/Featured-Developer-ThreeB-FrontEnd) ([App](https://featureddevelopers3bfrontend.herokuapp.com/#/home))
 * Proposal 4A [Featured Location](https://github.com/KeerthiMuli/featured-locations) ([App](https://featurelocation.herokuapp.com/))
 * Proposal 4B [Featured Location](https://github.com/KeerthiMuli/featured-locations) ([App](https://maryville-guide.herokuapp.com/))
 * Proposal 5A [Event Reminder](https://github.com/vivektadiparthi/BearcatE) ([App](https://bearcatevent.herokuapp.com/))
