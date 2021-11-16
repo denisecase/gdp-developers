@@ -1,5 +1,9 @@
 # gdp-developers
 
+## Spring 2022
+
+- [Syllabus with Sprint Schedule](https://denisecase.github.io/44-692-gdp2-syllabus/)
+
 ## Fall 2021
 
 Developer Proposal/MVP - Building an App
