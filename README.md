@@ -2,7 +2,7 @@
 
 ## Spring 2022 - Section 1 (MON)
 
-- Assistant: Sai Manideep Allu
+- Sec 01 Assistant: Sai Manideep Allu
 
 Section 1 Projects
 
@@ -14,7 +14,9 @@ Section 1 Projects
 6. GDP2-Sec1-06
 7. GDP2-Sec1-07
 
-- Assistant: Sai Manideep Allu
+## Spring 2022 - Section 3 (WED)
+
+- Sec 03 Assistant: Sai Manideep Allu
 
 Section 3 Projects
 
