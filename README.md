@@ -1,8 +1,37 @@
 # gdp-developers
 
-## Spring 2022
+## Spring 2022 - Section 1 (MON)
 
-- [GDP2 Syllabus with Sprint Schedule](https://denisecase.github.io/44-692-gdp2-syllabus/)
+- Assistant: Sai Manideep Allu
+
+Section 1 Projects
+
+1. GDP2-Sec1-01
+2. GDP2-Sec1-02
+3. GDP2-Sec1-03
+4. GDP2-Sec1-04
+5. GDP2-Sec1-05
+6. GDP2-Sec1-06
+7. GDP2-Sec1-07
+
+- Assistant: Sai Manideep Allu
+
+Section 3 Projects
+
+1. GDP2-Sec3-01A
+2. GDP2-Sec3-02A
+3. GDP2-Sec3-03A
+4. GDP2-Sec3-04A
+5. GDP2-Sec3-05A
+6. GDP2-Sec3-06A
+7. GDP2-Sec3-07A
+8. GDP2-Sec3-01B
+9. GDP2-Sec3-02B
+10. GDP2-Sec3-03B
+11. GDP2-Sec3-04B
+12. GDP2-Sec3-05B
+13. GDP2-Sec3-06B
+14. GDP2-Sec3-07B
 
 ## Fall 2021
 
