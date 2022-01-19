@@ -21,20 +21,16 @@ Section 1 Projects
 
 Section 3 Projects
 
-1. GDP2-Sec3-01A
-2. [GDP2-Sec3-02A](https://github.com/AkankshaSudhagoni/Notify-MyHabit)
-3. GDP2-Sec3-03A
-4. GDP2-Sec3-04A
-5. GDP2-Sec3-05A
-6. [GDP2-Sec3-06A](https://github.com/srisathyamamidala/To-do-List)
+1. GDP2-Sec3-01
+2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit)
+3. GDP2-Sec3-03
+4. GDP2-Sec3-04
+5. GDP2-Sec3-05
+6. [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List)
 7. [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application 
-8. GDP2-Sec3-01B
-9. GDP2-Sec3-02B
-10. GDP2-Sec3-03B
-11. GDP2-Sec3-04B
-12. GDP2-Sec3-05B
-13. GDP2-Sec3-06B
-14. GDP2-Sec3-07B
+8. GDP2-Sec3-08
+9. GDP2-Sec3-09
+10. GDP2-Sec3-10
 
 ## Fall 2021
 
