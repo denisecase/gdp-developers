@@ -22,7 +22,7 @@ Section 1 Projects
 Section 3 Projects
 
 1. GDP2-Sec3-01
-2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit)
+2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit 
 3. GDP2-Sec3-03
 4. GDP2-Sec3-04
 5. GDP2-Sec3-05
