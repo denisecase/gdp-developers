@@ -25,7 +25,7 @@ Section 3 Projects
 3. GDP2-Sec3-03A
 4. GDP2-Sec3-04A
 5. GDP2-Sec3-05A
-6. GDP2-Sec3-06A
+6. [GDP2-Sec3-06A](https://github.com/srisathyamamidala/To-do-List)
 7. GDP2-Sec3-07A
 8. GDP2-Sec3-01B
 9. GDP2-Sec3-02B
