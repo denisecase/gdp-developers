@@ -27,7 +27,7 @@ Section 3 Projects
 4. GDP2-Sec3-04A
 5. GDP2-Sec3-05A
 6. [GDP2-Sec3-06A](https://github.com/srisathyamamidala/To-do-List)
-7. GDP2-Sec3-07A
+7. [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application 
 8. GDP2-Sec3-01B
 9. GDP2-Sec3-02B
 10. GDP2-Sec3-03B
