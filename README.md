@@ -7,7 +7,7 @@
 Section 1 Projects
 
 1. GDP2-Sec1-01
-2. GDP2-Sec1-02
+2. [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/GDP2-Group2-)
 3. GDP2-Sec1-03
 4. GDP2-Sec1-04
 5. GDP2-Sec1-05
