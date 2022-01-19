@@ -11,7 +11,7 @@ Section 1 Projects
 3. GDP2-Sec1-03
 4. GDP2-Sec1-04
 5. [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack)
-6. [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts)
+6. [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts
 7. [GDP2-Sec1-07](https://github.com/Maruthi158/MotiveMaker)
 8. [GDP2-SEC1-08](https://github.com/S542362/BillsOnTime) Bills On Time
 
@@ -25,7 +25,7 @@ Section 3 Projects
 2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit 
 3. [GDP2-Sec3-03](https://github.com/shivaramkothapally/featured-developers-proposal)
 4. [GDP2-Sec3-04](https://github.com/harshakurra123/quotes)
-5. [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location)
+5. [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) **Featured Location**
 6. [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List
 7. [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application 
 8. GDP2-Sec3-08
