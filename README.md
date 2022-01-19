@@ -17,7 +17,7 @@ Section 1 Projects
 
 ## Spring 2022 - Section 3 (WED)
 
-- Sec 03 Assistant: Sai Manideep Allu
+- Sec 03 Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 Section 3 Projects
 
