@@ -13,6 +13,7 @@ Section 1 Projects
 5. GDP2-Sec1-05
 6. GDP2-Sec1-06
 7. GDP2-Sec1-07
+8. [GDP2-SEC1-08](https://github.com/S542362/BillsOnTime)
 
 ## Spring 2022 - Section 3 (WED)
 
