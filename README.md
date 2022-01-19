@@ -2,7 +2,7 @@
 
 ## Spring 2022 - Section 1 (MON)
 
-- Sec 01 Assistant: Sai Manideep Allu
+- Sec 01 Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 Section 1 Projects
 
