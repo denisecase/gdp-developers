@@ -2,11 +2,11 @@
 
 ## Spring 2022 - Section 1 (MON)
 
-- Sec 01 Assistant: Sai Manideep Allu
+- Sec 01 Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 Section 1 Projects
 
-1. GDP2-Sec1-01
+1. [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut)
 2. GDP2-Sec1-02
 3. GDP2-Sec1-03
 4. GDP2-Sec1-04
@@ -17,16 +17,16 @@ Section 1 Projects
 
 ## Spring 2022 - Section 3 (WED)
 
-- Sec 03 Assistant: Sai Manideep Allu
+- Sec 03 Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 Section 3 Projects
 
 1. GDP2-Sec3-01
-2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit)
-3. GDP2-Sec3-03
-4. GDP2-Sec3-04
-5. GDP2-Sec3-05
-6. [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List)
+2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit 
+3. [GDP2-Sec3-03](https://github.com/KeerthiMuli/Featured-Developer-Proposal)
+4. [GDP2-Sec3-04](https://github.com/harshakurra123/quotes)
+5. [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) **Featured Location**
+6. [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List
 7. [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application 
 8. GDP2-Sec3-08
 9. GDP2-Sec3-09
