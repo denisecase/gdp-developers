@@ -10,10 +10,10 @@ Section 1 Projects
 2. [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/GDP2-Group2-)
 3. [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03)
 4. GDP2-Sec1-04
-5. [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack)
-6. GDP2-Sec1-06
+5. [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track
+6. [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts
 7. [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) - Quote Maker (Team Members - Priyanka Maruthi , Tejaswi Avula)
-8. [GDP2-SEC1-08](https://github.com/S542362/BillsOnTime)
+8. [GDP2-SEC1-08](https://github.com/S542362/BillsOnTime) Bills On Time
 
 ## Spring 2022 - Section 3 (WED)
 
