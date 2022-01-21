@@ -28,7 +28,7 @@ Section 3 Projects
 5. [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) **Featured Location**
 6. [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List
 7. [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application 
-8. GDP2-Sec3-08
+8. [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (2B)
 9. [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App
 10. GDP2-Sec3-10
 
