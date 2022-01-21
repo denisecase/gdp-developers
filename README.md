@@ -8,7 +8,7 @@ Section 1 Projects
 
 1. [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut)
 2. [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/GDP2-Group2-)
-3. [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03)
+3. [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager) - InternManager
 4. [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany
 5. [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track
 6. [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts
@@ -21,7 +21,7 @@ Section 1 Projects
 
 Section 3 Projects
 
-1. GDP2-Sec3-01
+1. [GDP2-Sec3-01](https://github.com/akhilmallepally/bearcat-events) Bearcat Events
 2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit 
 3. [GDP2-Sec3-03](https://github.com/KeerthiMuli/Featured-Developer-Proposal)
 4. [GDP2-Sec3-04](https://github.com/harshakurra123/quotes)
