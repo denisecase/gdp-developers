@@ -6,7 +6,7 @@
 
 Section 1 Projects
 
-1. [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut)
+1. [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) - HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri , Hema Sree Rathnam Machha , Chandra Bhanu Tata )
 2. [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/GDP2-Group2-)
 3. [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager) - InternManager
 4. [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany
