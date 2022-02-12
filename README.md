@@ -22,7 +22,7 @@ Section 1 Projects
 Section 3 Projects
 
 1. [GDP2-Sec3-01](https://github.com/akhilmallepally/bearcat-events) Bearcat Events
-2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit 
+2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) **Notify MyHabit - [Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni)**
 3. [GDP2-Sec3-03](https://github.com/KeerthiMuli/Featured-Developer-Proposal) Featured Developer(Team Members: Jaya Kumar Saga, Shivaram Kothapally, Keerthi Muli,  Rasagna Reddy Banda)
 4. [GDP2-Sec3-04](https://github.com/harshakurra123/quotes) Quotes
 5. [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) **Featured Location (Pramod, Narendra, Abhilash, Nikitha)**
