@@ -30,7 +30,7 @@ Section 3 Projects
 7. [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application (Team Members - Giridhar, Vyshnavi, Vivak, Amulya)
 8. [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (2B)
 9. [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App
-10. [GDP2-Sec3-10](https://github.com/Sanjay-13/Topic-of-the-Day-2A) TopicOfTheDay
+10. [GDP2-Sec3-10](https://github.com/Sanjay-13/Topic-of-the-Day-2A) TopicOfTheDay-2A(Team Members: Abhilash Dhumala,Sanjay Saripalli)
 
 ## Fall 2021
 
