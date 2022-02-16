@@ -37,7 +37,7 @@
 
 ### Python Django
 
-- [GDP2-Sec3-04](https://github.com/harshakurra123/quotes) Quotes
+- [GDP2-Sec3-04](https://github.com/harshakurra123/quotes) Quotes (Harsha Kurra,Hemanth Venkata Reddy Telluri,Sai Kiran Reddy Enugala,Manoj Nuvvala)
 - [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List
 
 ### SpringBoot - Angular
