@@ -1,36 +1,55 @@
 # gdp-developers
 
-## Spring 2022 - Section 1 (MON)
+## Spring 2022 - Section 1 (MON) & Section 3 (WED)
 
 - Sec 01 Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
 
-Section 1 Projects
+### .NET - C#
 
-1. [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) - HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri , Hema Sree Rathnam Machha , Chandra Bhanu Tata )
-2. [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/GDP2-Group2-)
-3. [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager) - InternManager (Team - Ramu Vallapurapu, Akhil Kasuvojula, Anusha Kangala, Venkatesh Vemula)
-4. [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany
-5. [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track (Team Members : Swarupa Pedapalli, Satya Chowdary Gullapalli)
-6. [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts (Sowmya, Sumithra)
-7. [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) - Quote Maker (Team Members - Priyanka Maruthi , Tejaswi Avula)
-8. [GDP2-SEC1-08](https://github.com/S542362/BillsOnTime) Bills On Time
+- [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) - HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri , Hema Sree Rathnam Machha , Chandra Bhanu Tata )
+- [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track (Team Members : Swarupa Pedapalli, Satya Chowdary Gullapalli)
+- [GDP2-SEC1-08](https://github.com/S542362/BillsOnTime) Bills On Time
+- [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit - [Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni)
+- [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application (Team Members - Giridhar, Vyshnavi, Vivak, Amulya)
+- [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (2B)
 
-## Spring 2022 - Section 3 (WED)
+### .NET - C# - Angular
 
-- Sec 03 Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
+- [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App
 
-Section 3 Projects
+### Adonis.js - Vue
 
-1. [GDP2-Sec3-01](https://github.com/akhilmallepally/bearcat-events) Bearcat Events
-2. [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) **Notify MyHabit - [Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni)**
-3. [GDP2-Sec3-03](https://github.com/KeerthiMuli/Featured-Developer-Proposal) Featured Developer(Team Members: Jaya Kumar Saga, Shivaram Kothapally, Keerthi Muli,  Rasagna Reddy Banda)
-4. [GDP2-Sec3-04](https://github.com/harshakurra123/quotes) Quotes
-5. [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) **Featured Location (Pramod, Narendra, Abhilash, Nikitha)**
-6. [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List
-7. [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application (Team Members - Giridhar, Vyshnavi, Vivak, Amulya)
-8. [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (2B)
-9. [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App
-10. [GDP2-Sec3-10](https://github.com/Sanjay-13/Topic-of-the-Day-2A) TopicOfTheDay-2A(Team Members: Abhilash Dhumala,Sanjay Saripalli)
+- [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager) - InternManager (Team - Ramu Vallapurapu, Akhil Kasuvojula, Anusha Kangala, Venkatesh Vemula)
+- [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany
+
+### Go - Gin - Next.js
+
+- [GDP2-Sec3-01](https://github.com/akhilmallepally/bearcat-events) Bearcat Events
+
+### Node.js - React 
+
+- [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/GDP2-Group2-)
+- [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) - Quote Maker (Team Members - Priyanka Maruthi , Tejaswi Avula)
+
+### Node.js - Vue
+
+- [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) Featured Location (Pramod, Narendra, Abhilash, Nikitha)
+
+### Python Django
+
+- [GDP2-Sec3-04](https://github.com/harshakurra123/quotes) Quotes
+- [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List
+
+### SpringBoot - Angular
+
+- [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts (Sowmya, Sumithra)
+- [GDP2-Sec3-10](https://github.com/Sanjay-13/Topic-of-the-Day-2A) TopicOfTheDay-2A(Team Members: Abhilash Dhumala,Sanjay Saripalli)
+
+### SpringBoot - Vue
+
+- [GDP2-Sec3-03](https://github.com/KeerthiMuli/Featured-Developer-Proposal) Featured Developer(Team Members: Jaya Kumar Saga, Shivaram Kothapally, Keerthi Muli,  Rasagna Reddy Banda)
+
+-----
 
 ## Fall 2021
 
