@@ -2,7 +2,7 @@
 
 ## Spring 2022 - Section 1 (MON) & Section 3 (WED)
 
-- Sec 01 Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
+- Course Assistant: [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 ### .NET - C#
 
