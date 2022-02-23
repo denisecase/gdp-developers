@@ -15,7 +15,7 @@
 
 ### .NET - C# - Angular
 
-- ★★★✗ [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App (name, name)
+- ★★★✗ [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App (Tejaswi Reddy Nallavolu, Priyanka Thambabathula)
 
 ### Adonis.js - Vue
 
