@@ -8,7 +8,7 @@
 
 - ★★ [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri, Hema Sree Rathnam Machha, Chandra Bhanu Tata)
 - ★ [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track (Swarupa Pedapalli, Satya Chowdary Gullapalli)
-- ★★✗ [GDP2-Sec1-08](https://github.com/S542362/BillsOnTime) Bills On Time (name, name)
+- ★★ [GDP2-Sec1-08](https://github.com/S542362/BillsOnTime) Bills On Time (Shabnam Shaik, Gahana Swetha)
 - ★★ [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit ([Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni))
 - ★★ [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application (Giridhar, Vyshnavi, Vivak, Amulya)
 - ★★✗ [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (name, name)
