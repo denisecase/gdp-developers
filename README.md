@@ -51,10 +51,10 @@
 
 ## Key
 
-🌐 - Responsive app with opening page (one thing), link to a list of things, and a useful footer with links to repos, issues, boards, etc.
-✅ - Deployed app with successful authentication via GitHub Social Connection (register/login/logout)
-✗  - Waiting on PR
-🚫 - No deployed app / temporarily offline
+- 🌐 - Responsive app with opening page (one thing), link to a list of things, and a useful footer with links to repos, issues, boards, etc.
+- ✅ - Deployed app with successful authentication via GitHub Social Connection (register/login/logout)
+- ✗  - Waiting on PR
+- 🚫 - No deployed app / temporarily offline
 
 
 -----
