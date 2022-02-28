@@ -6,7 +6,7 @@
 
 ### .NET - C#
 
-- ✅★★ [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri, Hema Sree Rathnam Machha, Chandra Bhanu Tata)
+- ✅🔗★★ [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri, Hema Sree Rathnam Machha, Chandra Bhanu Tata)
 - ★ [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track (Swarupa Pedapalli, Satya Chowdary Gullapalli)
 - ★★ [GDP2-Sec1-08](https://github.com/S542362/BillsOnTime) Bills On Time (Shabnam Shaik, Gahana Swetha)
 - 🌐★★ [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit ([Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni))
@@ -51,8 +51,9 @@
 
 ## Key
 
-- 🌐 - Responsive app with opening page (one thing), link to a list of things, and a useful footer with links to repos, issues, boards, etc.
 - ✅ - Deployed app with successful authentication via GitHub Social Connection (register/login/logout)
+- 🌐 - Responsive app with opening page (one thing), link to a list of things, and a useful footer with links to repos, issues, boards, etc.
+- 🔗 - Uses About Section to link to a deployed app
 - ✗  - Waiting on PR
 - 🚫 - No deployed app / temporarily offline
 
