@@ -53,9 +53,11 @@
 
 - ✅ - Deployed app with successful authentication via GitHub Social Connection (register/login/logout)
 - 🌐 - Responsive app with opening page (one thing), link to a list of things, and a useful footer with links to repos, issues, boards, etc.
+- 🧪 - Includes unit tests, links to a hosted test coverage report.
+- 🤝 - Handshake = includes Swagger/OpenAPI API summary report.
 - 🔗 - Uses About Section to link to a deployed app
 - ✗  - Waiting on PR
-- 🚫 - No deployed app / temporarily offline
+- ❌ - No deployed app / temporarily offline
 
 
 -----
