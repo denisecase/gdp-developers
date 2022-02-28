@@ -15,12 +15,12 @@
 
 ### .NET - C# - Angular
 
-- ★★★✗ [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App (Tejaswi Reddy Nallavolu, Priyanka Thambabathula)
+- ★★★ [GDP2-Sec3-09](https://github.com/TejaswiNallavolu/angular-app-heroku) ClassReminder App (Tejaswi Reddy Nallavolu, Priyanka Thambabathula)
 
 ### Adonis.js - Vue
 
 - ★ [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager) InternManager (Ramu Vallapurapu, Akhil Kasuvojula, Anusha Kangala, Venkatesh Vemula)
-- ★★ [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany (name, name)
+- ★★✗ [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany (name, name)
 
 ### Go - Gin - Next.js
 
