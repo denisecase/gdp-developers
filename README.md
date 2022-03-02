@@ -24,7 +24,7 @@
 
 ### Go - Gin - Next.js
 
-- 🌐★★✗ [GDP2-Sec3-01](https://github.com/akhilmallepally/bearcat-events) Bearcat Events (Kushal Katari, Akhil Mallepally)
+- 🌐★★ [GDP2-Sec3-01](https://github.com/akhilmallepally/bearcat-events) Bearcat Events (Kushal Katari, Akhil Mallepally)
 
 ### Node.js - React 
 
