@@ -20,7 +20,7 @@
 ### Adonis.js - Vue
 
 - ★ [GDP2-Sec1-03](https://github.com/vallapurapuramu/GDP02-Sec01-Group03-InternManager) InternManager (Ramu Vallapurapu, Akhil Kasuvojula, Anusha Kangala, Venkatesh Vemula)
-- ★★✗ [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany (Vivek Drakshapally, Saikiran Reddy Gangidi, Nikhil Reddy Pannala, Venkat Sai Jarugula)
+- ★★ [GDP2-Sec1-04](https://github.com/saikiranreddygangidi/GDP02-ConnectCompany) ConnectCompany (Vivek Drakshapally, Saikiran Reddy Gangidi, Nikhil Reddy Pannala, Venkat Sai Jarugula)
 
 ### Go - Gin - Next.js
 
