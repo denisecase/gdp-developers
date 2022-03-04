@@ -43,7 +43,7 @@
 ### SpringBoot - Angular
 
 - ★★★ [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts (Sowmya, Sumithra)
-- ❌★ [GDP2-Sec3-10](https://github.com/Sanjay-13/AngularFrontEnd) TopicOfTheDay (Abhilash Dhumala, Sanjay Saripalli)
+- ★ [GDP2-Sec3-10](https://github.com/Sanjay-13/AngularFrontEnd) TopicOfTheDay (Abhilash Dhumala, Sanjay Saripalli)
 
 ### SpringBoot - Vue
 
