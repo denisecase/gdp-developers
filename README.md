@@ -33,7 +33,7 @@
 
 ### Node.js - Vue
 
-- ✅🌐★★ [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) Featured Location (Pramod, Narendra, Abhilash, Nikitha)
+- 🌐★★ [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) Featured Location (Pramod, Narendra, Abhilash, Nikitha)
 
 ### Python Django
 
