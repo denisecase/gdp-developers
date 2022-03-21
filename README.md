@@ -47,7 +47,7 @@
 
 ### SpringBoot - Vue
 
-- ★★ [GDP2-Sec3-03](https://github.com/KeerthiMuli/Featured-Developer-Proposal) Featured Developer (Jaya Kumar Saga, Shivaram Kothapally, Keerthi Muli,  Rasagna Reddy Banda)
+- ✅★★ [GDP2-Sec3-03](https://github.com/KeerthiMuli/Featured-Developer-Proposal) Featured Developer (Jaya Kumar Saga, Shivaram Kothapally, Keerthi Muli,  Rasagna Reddy Banda)
 
 ## Key
 
