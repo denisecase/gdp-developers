@@ -29,7 +29,7 @@
 ### Node.js - React 
 
 - ★ [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/StudyBuddy) StudyBuddy (Anu Teja, Bala Shankar, Roopin)
-- 🌐★★★ [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) Quote Maker (Priyanka Maruthi, Tejaswi Avula)
+- 🌐★★★ [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) Quote Maker (Priyanka Maruthi, [Tejaswi Avula](https://github.com/tejaavula076))
 
 ### Node.js - Vue
 
