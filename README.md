@@ -10,7 +10,7 @@
 - ★ [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track (Swarupa Pedapalli, Satya Chowdary Gullapalli)
 - ★★ [GDP2-Sec1-08](https://github.com/S542362/BillsOnTime) Bills On Time (Shabnam Shaik, Gahana Swetha)
 - 🌐★★ [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit ([Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni))
-- 🤝🌐🧪★★ [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application (Giridhar, Vyshnavi, Vivak, Amulya)
+- 🤝🌐🧪★★ [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application ([Giridhar](https://github.com/giridhar196), [Vyshnavi](https://github.com/vyshnavi1996), [Vivak](https://github.com/vivektadiparthi), [Amulya](https://github.com/amulyareddybaddam))
 - 🌐★★ [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (Arnav Akula, Naveen Tanuku)
 
 ### .NET - C# - Angular
@@ -29,11 +29,11 @@
 ### Node.js - React 
 
 - ★ [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/StudyBuddy) StudyBuddy( [Anu Teja](https://github.com/GUNDAANUTEJ) , [Bala Shankar](https://github.com/balumalladi) , [Roopin](https://github.com/RoopinVipparthi) )
-- 🌐★★★ [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) Quote Maker (Priyanka Maruthi, Tejaswi Avula)
+- 🌐★★★ [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) Quote Maker (Priyanka Maruthi, [Tejaswi Avula](https://github.com/tejaavula076))
 
 ### Node.js - Vue
 
-- 🌐★★ [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) Featured Location (Pramod, Narendra, Abhilash, Nikitha)
+- 🌐★★ [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) Featured Location ([Pramod](https://github.com/pramod096), Narendra, Abhilash, Nikitha)
 
 ### Python Django
 
