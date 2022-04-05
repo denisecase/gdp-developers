@@ -6,11 +6,11 @@
 
 ### .NET - C#
 
-- ★★ [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri, Hema Sree Rathnam Machha, Chandra Bhanu Tata)
+- ✅★★ [GDP2-Sec1-01](https://github.com/AbdulSuboor-Syed/HandIn-HandOut) HandIn-HandOut (Abdul Suboor Syed, Himaja Parachuri, Hema Sree Rathnam Machha, Chandra Bhanu Tata)
 - ★ [GDP2-Sec1-05](https://github.com/S542301/FitnessTrack) Fitness Track (Swarupa Pedapalli, Satya Chowdary Gullapalli)
 - ★★ [GDP2-Sec1-08](https://github.com/S542362/BillsOnTime) Bills On Time (Shabnam Shaik, Gahana Swetha)
 - 🌐★★ [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit ([Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni))
-- 🤝🌐🧪★★ [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application ([Giridhar](https://github.com/giridhar196), [Vyshnavi](https://github.com/vyshnavi1996), [Vivak](https://github.com/vivektadiparthi), [Amulya](https://github.com/amulyareddybaddam))
+- ✅🤝🌐🧪★★ [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application ([Giridhar](https://github.com/giridhar196), [Vyshnavi](https://github.com/vyshnavi1996), [Vivak](https://github.com/vivektadiparthi), [Amulya](https://github.com/amulyareddybaddam))
 - 🌐★★ [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (Arnav Akula, Naveen Tanuku)
 
 ### .NET - C# - Angular
@@ -28,21 +28,21 @@
 
 ### Node.js - React 
 
-- ★ [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/StudyBuddy) StudyBuddy( [Anu Teja](https://github.com/GUNDAANUTEJ) , [Bala Shankar](https://github.com/balumalladi) , [Roopin](https://github.com/RoopinVipparthi) )
-- 🌐★★★ [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) Quote Maker (Priyanka Maruthi, [Tejaswi Avula](https://github.com/tejaavula076))
+- ✅★ [GDP2-Sec1-02](https://github.com/GUNDAANUTEJ/StudyBuddy) StudyBuddy( [Anu Teja](https://github.com/GUNDAANUTEJ) , [Bala Shankar](https://github.com/balumalladi) , [Roopin](https://github.com/RoopinVipparthi) )
+- ✅🌐★★★ [GDP2-Sec1-07](https://github.com/Maruthi158/QuoteMaker) Quote Maker (Priyanka Maruthi, [Tejaswi Avula](https://github.com/tejaavula076))
 
 ### Node.js - Vue
 
-- 🌐★★ [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) Featured Location ([Pramod](https://github.com/pramod096), Narendra, Abhilash, Nikitha)
+- ✅🌐★★ [GDP2-Sec3-05](https://github.com/pramod096/Featured-Location) Featured Location ([Pramod](https://github.com/pramod096), Narendra, Abhilash, Nikitha)
 
 ### Python Django
 
 - ✅🌐🧪★★ [GDP2-Sec3-04](https://github.com/harshakurra123/quotes) Quotes (Harsha Kurra, Hemanth Venkata Reddy Telluri, Sai Kiran Reddy Enugala, Manoj Nuvvala)
-- ★★ [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List (Sri Sathya Mamidala, Prasanna Arla)
+- ✅★★ [GDP2-Sec3-06](https://github.com/srisathyamamidala/To-do-List) To-do-List (Sri Sathya Mamidala, Prasanna Arla)
 
 ### SpringBoot - Angular
 
-- ★★★ [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts (Sowmya, Sumithra)
+- ✅★★★ [GDP2-Sec1-06](https://github.com/sowmya-yalamarthi/HandyHandouts) Handy Handouts (Sowmya, Sumithra)
 - ★ [GDP2-Sec3-10](https://github.com/Sanjay-13/AngularFrontEnd) TopicOfTheDay (Abhilash Dhumala, Sanjay Saripalli)
 
 ### SpringBoot - Vue
