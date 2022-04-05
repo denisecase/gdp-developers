@@ -11,7 +11,7 @@
 - ★★ [GDP2-Sec1-08](https://github.com/S542362/BillsOnTime) Bills On Time (Shabnam Shaik, Gahana Swetha)
 - 🌐★★ [GDP2-Sec3-02](https://github.com/AkankshaSudhagoni/Notify-MyHabit) Notify MyHabit ([Rohit Chandupatla](https://github.com/RohitChandupatla), [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni))
 - ✅🤝🌐🧪★★ [GDP2-Sec3-07](https://github.com/giridhar196/classReminder) Class Reminder Application ([Giridhar](https://github.com/giridhar196), [Vyshnavi](https://github.com/vyshnavi1996), [Vivak](https://github.com/vivektadiparthi), [Amulya](https://github.com/amulyareddybaddam))
-- 🌐★★ [GDP2-Sec3-08](https://github.com/NaveenTanuku/Topic-of-the-Day-2B) Topic Of The Day (Arnav Akula, Naveen Tanuku)
+- 🌐★★ [GDP2-Sec3-08](https://github.com/NaveenTanuku/TopicDay) Topic Of The Day (Arnav Akula, Naveen Tanuku)
 
 ### .NET - C# - Angular
 
